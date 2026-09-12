@@ -29,7 +29,7 @@ I'm already comfortable with **Flutter & GetX**, and have experience building ap
 
 <table>
 <tr>
-<td valign="top" width="100%">
+<td valign="top" width="50%">
 
 ### Languages
 
@@ -42,7 +42,7 @@ HTML · CSS · JavaScript
 ```
 
 </td>
-<td valign="top" width="100%">
+<td valign="top" width="50%">
 
 ### Tools & Environment
 
