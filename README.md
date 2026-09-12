@@ -18,17 +18,7 @@ Building things around **AI, software engineering, and local systems.**
 ## `> whoami`
 
 I'm a developer focused on becoming an **AI Engineer**, with an interest in both the models and the engineering behind them.
-
 I enjoy understanding how things work under the hood, building projects from scratch, and experimenting with local AI.
-
-Currently exploring:
-
-* AI Engineering & Machine Learning
-* Python & software engineering
-* Rust & systems programming
-* LLMs & local AI
-* CUDA & GPU acceleration
-* Linux & developer tooling
 
 ---
 
@@ -65,27 +55,6 @@ Hyprland
 </td>
 </tr>
 </table>
-
----
-
-## `currently`
-
-```yaml
-focus:
-  - AI Engineering
-  - Machine Learning
-  - LLMs
-  - Python
-  - Rust
-  - Flutter
-
-environment:
-  os: Arch Linux
-  wm: Hyprland
-  editors:
-    - Zed
-    - Neovim
-```
 
 ---
 
