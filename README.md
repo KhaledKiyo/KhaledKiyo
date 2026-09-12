@@ -16,8 +16,11 @@
 ## `> whoami`
 
 First, I use Arch BTW ;3
+
 I'm a developer focused on becoming an **AI Engineer**, with an interest in both the models and the engineering behind them.
+
 I enjoy understanding how things work, building projects from scratch, and experimenting with local AI.
+
 I'm already comfortable with **Flutter & GetX**, and have experience building applications with them.
 
 ---
